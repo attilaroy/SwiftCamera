@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CF617383-8D64-4C81-9693-A9DFF97033D8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EE15070A1C24D5C3A1B1FB636CF0D40D1ACC6133</key>
+		<string>https://github.com/attilaroy/SwiftCamera.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SwiftCameraApp/SwiftCameraApp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EE15070A1C24D5C3A1B1FB636CF0D40D1ACC6133</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/attilaroy/SwiftCamera.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EE15070A1C24D5C3A1B1FB636CF0D40D1ACC6133</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EE15070A1C24D5C3A1B1FB636CF0D40D1ACC6133</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwiftCamera</string>
+		</dict>
+	</array>
+</dict>
+</plist>
