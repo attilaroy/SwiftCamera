@@ -26,7 +26,7 @@ class ViewController: UIViewController {
     @IBAction func buttonActionTakePicture(sender: AnyObject) {
         
         // fetch image from image picker
-        ImagePickerManager.sharedManager.presentImagePicker(self) { (image, source) -> () in
+        ImagePickerManager.sharedManager.presentImagePicker(viewController: self) { (image, source) -> () in
             self.imageView.image = image
         }
         

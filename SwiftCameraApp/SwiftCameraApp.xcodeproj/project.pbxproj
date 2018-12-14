@@ -164,9 +164,11 @@
 				TargetAttributes = {
 					9A58B2E21B3723A500B76BC1 = {
 						CreatedOnToolsVersion = 6.3.2;
+						DevelopmentTeam = YJD64NSP47;
 					};
 					9A58B2F71B3723A500B76BC1 = {
 						CreatedOnToolsVersion = 6.3.2;
+						DevelopmentTeam = YJD64NSP47;
 						TestTargetID = 9A58B2E21B3723A500B76BC1;
 					};
 				};
@@ -344,9 +346,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = YJD64NSP47;
 				INFOPLIST_FILE = SwiftCameraApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.attila.SwiftCameraApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -354,9 +359,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = YJD64NSP47;
 				INFOPLIST_FILE = SwiftCameraApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.attila.SwiftCameraApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
@@ -364,6 +372,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = YJD64NSP47;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -375,6 +384,7 @@
 				INFOPLIST_FILE = SwiftCameraAppTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SwiftCameraApp.app/SwiftCameraApp";
 			};
 			name = Debug;
@@ -383,6 +393,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = YJD64NSP47;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -390,6 +401,7 @@
 				INFOPLIST_FILE = SwiftCameraAppTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SwiftCameraApp.app/SwiftCameraApp";
 			};
 			name = Release;
@@ -413,6 +425,7 @@
 				9A58B3041B3723A500B76BC1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9A58B3051B3723A500B76BC1 /* Build configuration list for PBXNativeTarget "SwiftCameraAppTests" */ = {
 			isa = XCConfigurationList;
@@ -421,6 +434,7 @@
 				9A58B3071B3723A500B76BC1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
