@@ -1,5 +1,6 @@
 # SwiftCamera
-Take Photo or choose existing photo from gallery by calling a single function in swift
+Take Photo or choose existing photo from gallery by calling a single function. 
+Migrated to Swift 4.2
 
 # Prerequisite
 Run application in a device instead of simulator
